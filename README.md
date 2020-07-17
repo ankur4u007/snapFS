@@ -1,4 +1,4 @@
-#SnapFs
+# SnapFs
 
 This is yet another simple file system in a sea of [open source filesystems](https://en.wikipedia.org/wiki/List_of_file_systems) 
 but is optimized for local resilient disk storage with commodity hardware.  
